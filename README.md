@@ -1,2 +1,22 @@
 # GIT-Hub-Project--Gym-
-The Gym Workout Tracker is my Python program that can help users estimate their weekly workout based on the number of minutes they worked out today. The program asks for one number and calculates in return your total amount of weekly workout minutes, then converts this into hours.  
+How to Run the Program
+
+Open a terminal inside your project folder and run:
+
+python app.py
+
+Example Output
+Welcome to the Gym Workout Tracker!
+How many minutes did you work out today? 
+45
+
+Gym Progress Report 
+You worked out for 45.0 minutes today.
+At this pace, you'll get about 315 minutes of exercise this week.
+That's roughly 5.2 hours per week — great job staying active!
+
+Features
+
+-User input for daily workout minutes
+-Error handling to prevent invalid entries
+-Weekly workout estimation
